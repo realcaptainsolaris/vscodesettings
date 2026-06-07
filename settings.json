@@ -1,0 +1,36 @@
+{
+    "editor.fontSize": 18,
+    "window.zoomLevel": 1,
+    "explorer.compactFolders": false,
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontSize": 18,
+    "python.languageServer": "Pylance",
+    "workbench.tree.indent": 20,
+    "files.autoSave": "onFocusChange",
+    "python.analysis.autoImportCompletions": false,
+    "workbench.iconTheme": "vs-minimal",
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.rulers": [88],
+        "editor.defaultFormatter": "charliermarsh.ruff",
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html",
+        "jinja-html": "html"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "markdown-pdf.displayHeaderFooter": false,
+    "extensions.ignoreRecommendations": true,
+    "breadcrumbs.enabled": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "python": false
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "python.createEnvironment.trigger": "off",
+    "editor.defaultFormatter": "charliermarsh.ruff",
+
+}
